@@ -78,13 +78,13 @@ Sigue los siguientes pasos para ejecutar este proyecto localmente.
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/reseñas-libros.git
+   git clone https://github.com/tu-usuario/Book-Reviews-Platform.git
    ```
 
 2. Ve al directorio del proyecto:
 
    ```bash
-   cd reseñas-libros
+   cd Book-Reviews-Platform
    ```
 
 3. Instala las dependencias:
